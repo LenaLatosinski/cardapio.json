@@ -1,20 +1,74 @@
 [
     {
-        "id": 1,
-        "name": "Salada mista",
-        "descricao": "Folhas da estação, tomates frescos, grão de bico",
-        "preco": "R$ 15,90",
-        "gluten": "Glúten: Não",
-        "calorias": "190 calorias",
-        "imageId": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-salada-mista-2.jpg"
+      "id": 1,
+      "nome": "Hamburguer de costela + bacon",
+      "descricao": "Hamburguer artesanal com 140g de carne de costela + bacon, queijo mussarela ou cheddar, maionese especial da casa",
+      "preco": "31,90",
+	  "gluten": "sim",
+	  "calorias":"760",
+	  "imagem": "https://ogimg.infoglobo.com.br/in/22318020-42b-a9d/FT1086A/HOB_Costela-BBQ_Credito-Ezio-Philot-e-Vinicius-Oliveira-1.jpg" 
     },
-    {
-        "id": 2,
-        "name": "Canapés de abacate",
-        "descricao": "Abacates recheados com pico de gallo e ricota fresca",
-        "preco": "R$ 18,90",
-        "gluten": "Glúten: Não",
-        "calorias": "140 calorias",
-        "imageId": "https://nutritotal.com.br/publico-geral/wp-content/uploads/sites/2/2019/08/shutterstock_1182235288.jpg"
+	{
+      "id": 2,
+      "nome": "Hamburguer de frango",
+      "descricao": "Hamburguer artesanal com 140g de peito de frango + queijo mussarela ou cheddar, maionese especial da casa, cebola roxa, alface",
+      "preco": "25,90",
+	  "gluten": "sim",
+	  "calorias":"550",
+	  "imagem": "https://s2.glbimg.com/L1a_43JQJf9aLK6E4wWjxYHFANM=/640x413/smart/e.glbimg.com/og/ed/f/original/2017/07/27/smart_burguer_cocoricrok_creditos_wellington_nemeth.jpg" 
+    },
+	{
+      "id": 3,
+      "nome": "Hamburguer vegetariano",
+      "descricao": "Hamburguer artesanal com 140g de grão de bico + queijo mussarela ou cheddar, tomate, maionese especial da casa",
+      "preco": "25,90",
+	  "gluten": "sim",
+	  "calorias":"450",
+	  "imagem": "https://www.restodonte.com.br/recipePics/9900192.jpg?v114" 
+    },
+	{
+      "id": 4,
+      "nome": "Frango a passarinho",
+      "descricao": "Cortes selecionados de coxa e sobrecoxa de frango, aproximadamente 550g + molho a sua escolha",
+      "preco": "43,00",
+	  "gluten": "não",
+	  "calorias":"600",
+	  "imagem": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2020/08/01/frango-passarinho-molho-pimenta-768x512.jpg" 
+    },
+	{
+      "id": 5,
+      "nome": "Bolinho de aipim com calabresa",
+      "descricao": "10 unidades de bolinho de aipim recheado com calabresa",
+      "preco": "33,00",
+	  "gluten": "sim",
+	  "calorias":"445",
+	  "imagem": "https://bigreceitas.com.br/wp-content/uploads/2020/02/Bolinho-de-mandioca-com-calabresa.jpg" 
+    },
+	{
+      "id": 6,
+      "nome": "Batata frita",
+      "descricao": "Porção de batata frita + molho a sua escolha",
+      "preco": "10,90",
+	  "gluten": "não",
+	  "calorias":"400",
+	  "imagem": "https://thumb-cdn.soluall.net/prod/shp_products/sp1280fw/5db0a140-3ae8-40b3-925f-6b22ac1e07be/5db0a140-7608-47b6-82fa-6b22ac1e07be.jpg" 
+    },
+	{
+      "id": 7,
+      "nome": "Suco em lata Del Valle",
+      "descricao": "Suco em lata del Valle 290 ml com sabores a sua escolha: maracujá, pêssego, goiaba, uva",
+      "preco": "3,79",
+	  "gluten": "não",
+	  "calorias":"115",
+	  "imagem": "https://thumb-cdn.soluall.net/prod/shp_products/sp1280fw/605e062a-d120-49d5-9235-187dac1e0e77/605e062a-3b7c-494d-8d8e-187dac1e0e77.jpg" 
+    },
+	{
+      "id": 8,
+      "nome": "Refrigerante em lata",
+      "descricao": "Refrigerante em lata 350 ml a sua escolha: coca cola, coca cola zero, guaraná, fanta, sprite",
+      "preco": "5,50",
+	  "gluten": "sim",
+	  "calorias":"130",
+	  "imagem": "http://burguercoke.com.br/wp-content/uploads/2016/02/REFRIGERANTE-LATA.jpg" 
     }
-]
+  ]
