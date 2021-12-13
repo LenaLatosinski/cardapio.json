@@ -1,31 +1,75 @@
 {
-  "cardapio": [
-    {
-      "id": "1001",
-      "name": "Fast and Furious",
-      "description": "Folhas da estação, tomates frescos, grão de bico",
-      "price": "R$ 15,90",
-      "gluten": "Glúten: Não",
-      "calories": "190 calorias",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/910VekmDZ5L._AC_SY741_.jpg"
-    },
-    {
-      "id": "1002",
-      "name": "Ninja Turtles",
-      "description": "Folhas da estação, tomates frescos, grão de bico",
-      "price": "R$ 15,90",
-      "gluten": "Glúten: Não",
-      "calories": "190 calorias",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
-    },
-    {
-      "id": "1002",
-      "name": "Midway",
-      "description": "Folhas da estação, tomates frescos, grão de bico",
-      "price": "R$ 15,90",
-      "gluten": "Glúten: Não",
-      "calories": "190 calorias",
-      "image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"
-    }
-  ]
+	"cardapio": [{
+			"id": "1",
+			"name": "Salada César",
+			"description": "Salada preparada com alface romana e molho Caesar.",
+			"price": "R$ 22,00",
+			"gluten": "Glúten: Não",
+			"calories": "80 calorias",
+			"image": "https://th.bing.com/th/id/R.7b552d5757aecdab52d1e2dec0a3b707?rik=xhI8SAiXAuqnpA&pid=ImgRaw&r=0"
+		},
+		{
+			"id": "2",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "3",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "6",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "7",
+			"name": "Ninja Turtles",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+		},
+		{
+			"id": "8",
+			"name": "Midway",
+			"description": "Folhas da estação, tomates frescos, grão de bico",
+			"price": "R$ 15,90",
+			"gluten": "Glúten: Não",
+			"calories": "190 calorias",
+			"image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"
+		}
+	]
 }
