@@ -10,66 +10,66 @@
 		},
 		{
 			"id": "2",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Nhoque aos 4 queijos",
+			"description": "Massa preparada da mistura de batata cozida com farinha de trigo.",
+			"price": "R$ 31,00",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "250 calorias",
+			"image": "https://th.bing.com/th/id/OIP.-Y6aOO8L7oJ_katBMu8hHgHaE8?pid=ImgDet&rs=1"
 		},
 		{
 			"id": "3",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Espaguete à carbonara",
+			"description": "Leva bacon, ovos, pimenta-do-reino e parmesão.",
+			"price": "R$ 33,00",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "400 calorias",
+			"image": "https://th.bing.com/th/id/R.07b4189e29eef0cbbac118663b3cbe99?rik=agh7XvSCD%2bC9GA&riu=http%3a%2f%2fwww.lopessupermercados.com.br%2fportalrevista%2fwp-content%2fuploads%2f2018%2f01%2fshutterstock_471318563.jpg&ehk=CWJ%2bTKVJfmTUXXTm1O%2fZwZJ5cwViFdYyO7fZpLR32hY%3d&risl=&pid=ImgRaw&r=0"
 		},
 		{
 			"id": "4",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Rondele de queijo e presunto",
+			"description": "Mussarela, ricota, presunto e molho de tomate",
+			"price": "R$ 42,00",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "300 calorias",
+			"image": "https://receitasdotioricardo.com.br/wp-content/uploads/2013/11/rondelli-pratico-ao-sugo.jpg"
 		},
 		{
 			"id": "5",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Salada Caprese",
+			"description": "Preparada com mussarela fresca, tomate, manjericão, orégano, azeite de oliva e sal.",
+			"price": "R$ 17,90",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "100 calorias",
+			"image": "https://www.dicasdemulher.com.br/wp-content/uploads/2019/03/salada-caprese.jpg"
 		},
 		{
 			"id": "6",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Lasanha à bolonhesa",
+			"description": "Massa para lasanha pré-cozida, queijo, molho bolonhesa, carne moída e molho branco.",
+			"price": "R$ 31,90",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "290 calorias",
+			"image": "https://receitasdeliciosa.info/wp-content/uploads/2019/12/Lasanha-a-Bolonhesa-Deliciosa.jpg"
 		},
 		{
 			"id": "7",
-			"name": "Ninja Turtles",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Pizza Portuguesa",
+			"description": "Massa de pizza, polpa de tomate, rúcula e palmito.",
+			"price": "R$ 28,90",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
+			"calories": "300 calorias",
+			"image": "https://th.bing.com/th/id/OIP.eSxs94f43E_3V-SjP6GdvQHaFb?pid=ImgDet&rs=1"
 		},
 		{
 			"id": "8",
-			"name": "Midway",
-			"description": "Folhas da estação, tomates frescos, grão de bico",
-			"price": "R$ 15,90",
+			"name": "Risotto al Limone",
+			"description": "Leva arroz branco, cebola, lasca de limão e vinho branco.",
+			"price": "R$ 45,90",
 			"gluten": "Glúten: Não",
-			"calories": "190 calorias",
-			"image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"
+			"calories": "240 calorias",
+			"image": "https://www.melarossa.it/wp-content/uploads/2017/10/maxresdefault.jpg"
 		}
 	]
 }
