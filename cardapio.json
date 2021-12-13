@@ -5,6 +5,8 @@
       "name": "Fast and Furious",
       "description": "Folhas da estação, tomates frescos, grão de bico",
       "price": "R$ 15,90",
+      "gluten": "Glúten: Não",
+      "calories": "190 calorias",
       "image": "https://images-na.ssl-images-amazon.com/images/I/910VekmDZ5L._AC_SY741_.jpg"
     },
     {
@@ -12,6 +14,8 @@
       "name": "Ninja Turtles",
       "description": "Folhas da estação, tomates frescos, grão de bico",
       "price": "R$ 15,90",
+      "gluten": "Glúten: Não",
+      "calories": "190 calorias",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81rNMIWPXnL._AC_SY679_.jpg"
     },
     {
@@ -19,6 +23,8 @@
       "name": "Midway",
       "description": "Folhas da estação, tomates frescos, grão de bico",
       "price": "R$ 15,90",
+      "gluten": "Glúten: Não",
+      "calories": "190 calorias",
       "image": "https://i.pinimg.com/564x/63/24/6d/63246d6551c07c6948686b170bd86961.jpg"
     }
   ]
